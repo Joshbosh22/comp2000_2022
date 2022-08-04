@@ -13,10 +13,24 @@ And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
   * Who made the last commit to repository A?
+
+    Matthew Roberts
+
   * Who made the first commit to repository A?
+
+    Jon Mountjoy
+
   * Who made the first and last commits to repository B?
+
+    Dave Pearce
+
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+
+    Both projects A and B are currently active
+  
   * 🤔 Which file in each project has had the most activity?
+
+    
 
 # Task 2
 
